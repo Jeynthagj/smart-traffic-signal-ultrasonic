@@ -46,7 +46,7 @@ Select Board → Arduino Uno.
 
 Upload the code to Arduino (or generate HEX file for Proteus).
 
-🔹 Proteus Simulation
+Proteus Simulation
 
 Open traffic_with_ultrasonic.pdsprj in Proteus.
 
@@ -76,6 +76,6 @@ AI-based traffic prediction
 
 Real-time traffic data logging
 
-📜 License
+License
 
 This project is licensed under the MIT License.
