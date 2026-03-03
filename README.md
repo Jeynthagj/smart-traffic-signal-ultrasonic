@@ -32,6 +32,7 @@
     System runs continuously and updates dynamically.
 
 ##*Project Files*
+
     automatic-traffic-signal-ultrasonic/
     ├── traffic_with_ultrasonic.ino        → Arduino source code
     ├── traffic_with_ultrasonic.pdsprj     → Proteus simulation project
